@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\a0921\OneDrive\桌面\Project4\Project4\main.c(4,9): warning C4101: 'j': 未參考的區域變數
+C:\Users\a0921\OneDrive\桌面\Project4\Project4\main.c(4,6): warning C4101: 'i': 未參考的區域變數
+  Project4.vcxproj -> C:\Users\a0921\OneDrive\桌面\Project4\Project4\x64\Debug\Project4.exe
